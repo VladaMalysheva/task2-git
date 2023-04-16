@@ -8,3 +8,5 @@ Line17
 Line18
 Vlada2
 Vlada1
+Line19_updated
+Line20_updated
