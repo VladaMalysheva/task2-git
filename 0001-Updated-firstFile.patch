@@ -1,0 +1,24 @@
+From 4eadc27e566556387e07ce69e6123bd3c0231c4c Mon Sep 17 00:00:00 2001
+From: VladaMalysheva <ik02.vlada.m@gmail.com>
+Date: Sun, 16 Apr 2023 18:53:13 +0300
+Subject: [PATCH] Updated firstFile
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 14d1250..cc332e2 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Line1
+-Line2
++UpdatedLine1
++UpdatedLine2
+ Line3
+ Line4
+ Line5
+-- 
+2.35.1.windows.2
+
