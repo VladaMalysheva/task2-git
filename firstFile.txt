@@ -1,8 +1,8 @@
 UpdatedLine1
 UpdatedLine2
 Line3
-Line4
-Line5
+newLine4(18)
+newLine5(18)
 Line6
 Line7
 AnotherLine8
